@@ -1,2 +1,6 @@
-# Afrin-S-
-I’m Afrin S, a curious learner and aspiring developer who loves building creative digital projects. I enjoy solving problems through code, designing user-friendly experiences, and experimenting with data-driven applications. My goal is to grow into a versatile developer while contributing meaningful solutions to the tech world.
+# Digital portfolio 
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Afrin-S/pen/WbQaEjP](https://codepen.io/Afrin-S/pen/WbQaEjP).
+
